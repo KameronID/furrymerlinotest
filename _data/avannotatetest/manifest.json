@@ -27,6 +27,22 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://KameronID.github.io/furrymerlinotest/annotations/avannotatetest-canvas-1-1.json",
+            "label": {
+              "none": ["1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://KameronID.github.io/furrymerlinotest/annotations/avannotatetest-canvas-1--california---.json",
+            "label": {
+              "none": [" California. \""]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://KameronID.github.io/furrymerlinotest/annotations/avannotatetest-canvas-1-.json",
             "label": {
               "none": [""]
