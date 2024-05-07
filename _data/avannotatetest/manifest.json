@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "AVAnnotateTest" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/cfomeeting1982",
+        "type": "Text",
+        "label": { "en": [ "AVAnnotateTest" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 975.0,
+        "items": [
+          {
+            "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia803102.us.archive.org/7/items/cfomeeting1982/CFO%20Meeting%20ASIFA%20Cell-A-Bration%20%281982%29.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 975.0
+                },
+                "target": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
