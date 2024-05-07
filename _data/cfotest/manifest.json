@@ -3,14 +3,6 @@
     "id": "https://KameronID.github.io/furrymerlinotest/cfotest/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "cfotest" ] },
-    "homepage": [
-      {
-        "id": "https://archive.org/details/cfomeeting1982",
-        "type": "Text",
-        "label": { "en": [ "cfotest" ] },
-        "format": "text/html"
-      }
-    ],
     "provider": [
       {
         "id": "archive.org",
