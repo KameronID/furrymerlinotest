@@ -43,7 +43,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://archive.org/details/cfomeeting1982",
+                  "id": "https://ia803102.us.archive.org/7/items/cfomeeting1982/CFO%20Meeting%20ASIFA%20Cell-A-Bration%20%281982%29.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 975.0
                 },
                 "target": "https://KameronID.github.io/furrymerlinotest/cfotest/canvas-1/canvas"
