@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://KameronID.github.io/furrymerlinotest/annotations/avannotatetest-canvas-1-.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "avannotatetest-canvas-1--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "0:00",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "avannotatetest-canvas-1--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "0:04",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.0"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,16 @@
         "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/canvas",
         "type": "Canvas",
         "duration": 975.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://KameronID.github.io/furrymerlinotest/annotations/avannotatetest-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://KameronID.github.io/furrymerlinotest/avannotatetest/canvas-1/paintings",
